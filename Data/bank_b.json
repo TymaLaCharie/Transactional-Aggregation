@@ -1,0 +1,50 @@
+[
+    {
+        "transactionId": "B1",
+        "val": 25.65,
+        "merchant": "InDrive Trip",
+        "transactionDate": "2026-06-01"
+    },
+    {
+        "transactionId": "B2",
+        "val": 100.00,
+        "merchant": "Amazon",
+        "transactionDate": "2026-06-02"
+    },
+    {
+        "transactionId": "B3",
+        "val": 750.00,
+        "merchant": "Woolworths",
+        "transactionDate": "2026-06-03"
+    },
+    {
+        "transactionId": "B4",
+        "val": 200.00,
+        "merchant": "Apple Store",
+        "transactionDate": "2026-06-04"
+    },
+    {
+        "transactionId": "B5",
+        "val": 150.00,
+        "merchant": "Pick n Pay",
+        "transactionDate": "2026-06-05"
+    },
+    {
+        "transactionId": "B6",
+        "val": 3000.00,
+        "merchant": "Markham",
+        "transactionDate": "2026-06-06"
+    },
+    {
+        "transactionId": "B7",
+        "val": 25000.00,
+        "merchant": "BuildIT",
+        "transactionDate": "2026-06-07"
+    },
+    {
+        "transactionId": "B8",
+        "val": 400.00,
+        "merchant": "PieCity",
+        "transactionDate": "2026-06-08"
+    }
+]

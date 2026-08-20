@@ -1,0 +1,44 @@
+[
+    {
+        "reference": "C1",
+        "debit_amount": 25.65,
+        "vendor": "Bolt Trip",
+        "date_time": "2026-06-01T09:05:11"
+    },
+    {
+        "reference": "C2",
+        "debit_amount": 100.00,
+        "vendor": "Gautrain",
+        "date_time": "2026-06-02T14:30:00"
+    },
+    {
+        "reference": "C3",
+        "debit_amount": 750.00,
+        "vendor": "Shoprite",
+        "date_time": "2026-06-03T11:15:00"
+    },
+    {
+        "reference": "C4",
+        "debit_amount": 200.00,
+        "vendor": "Vodacom",
+        "date_time": "2026-06-04T16:45:00"
+    },
+    {
+        "reference": "C5",
+        "debit_amount": 150.00,
+        "vendor": "Macdonalds",
+        "date_time": "2026-06-05T10:20:00"
+    },
+    {
+        "reference": "C6",
+        "debit_amount": 3000.00,
+        "vendor": "Shell Fuels",
+        "date_time": "2026-06-23T13:50:00"
+    },
+    {
+        "reference": "C7",
+        "debit_amount": 25000.00,
+        "vendor": "BuildIT",
+        "date_time": "2026-06-07T15:30:00"
+    }
+]

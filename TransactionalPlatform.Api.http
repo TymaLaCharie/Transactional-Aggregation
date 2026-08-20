@@ -1,0 +1,6 @@
+@TransactionalPlatform.Api_HostAddress = http://localhost:5027
+
+GET {{TransactionalPlatform.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

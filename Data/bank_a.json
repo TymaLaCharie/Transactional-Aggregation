@@ -1,0 +1,62 @@
+[
+    {
+        "i": "A1",
+        "amount": 50.00,
+        "description": "Seatle Coffe",
+        "date": "2026-06-01"
+    },
+    {
+        "i": "A2",
+        "amount": 100.00,
+        "description": "Amazo Shop",
+        "date": "2026-06-02"
+    },
+    {
+        "i": "A3",
+        "amount": 75.00,
+        "description": "Uber Trip",
+        "date": "2026-06-03"
+    },
+    {
+        "i": "A4",
+        "amount": 200.00,
+        "description": "Apple Store",
+        "date": "2026-06-04"
+    },
+    {
+        "i": "A5",
+        "amount": 150.00,
+        "description": "Game",
+        "date": "2026-06-05"
+    },
+    {
+        "i": "A6",
+        "amount": 300.00,
+        "description": "Makro",
+        "date": "2026-06-06"
+    },
+    {
+        "i": "A7",
+        "amount": 250.00,
+        "description": "Car Wash",
+        "date": "2026-06-07"
+    },
+    {
+        "i": "A8",
+        "amount": 400.00,
+        "description": "Car Service",
+        "date": "2026-06-08"
+    },
+    {
+        "i": "A9",
+        "amount": 500.00,
+        "description": "Checkers",
+        "date": "2026-06-09"
+    },
+    {
+        "i": "A10",
+        "amount": 600.00,
+        "description": "Mr Price",
+        "date": "2026-06-10"
+    }
+]
